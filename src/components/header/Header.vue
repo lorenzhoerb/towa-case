@@ -17,7 +17,7 @@ export default {
 
 <template>
     <header class="flex justify-center border-b-2 border-gray-300 px-6">
-        <div class="flex justify-between w-full max-w-screen-xl h-20">
+        <div class="flex justify-between container h-20">
             <div class="flex space-x-16">
                 <PageLogo />
                 <nav class="flex space-x-6">
