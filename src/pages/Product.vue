@@ -1,0 +1,3 @@
+<template>
+    Our Product
+</template>
