@@ -20,7 +20,7 @@ export default {
 <template>
     <footer class="bg-violet-950 text-primary-light pt-8 pb-4">
         <div class="mx-auto w-full max-w-screen-lg">
-            <div class="flex justify-between space-x-10">
+            <div class="flex flex-col px-2 justify-between space-y-5 md:flex-row sm:px-0 sm:space-x-5 items-center">
                 <FooterSectionAbout />
                 <FooterSectionNav title="Quick Links" :nav="mainNav" />
                 <FooterSectionContact />
