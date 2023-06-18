@@ -1,3 +1,13 @@
+<script>
+import PageTemplate from './PageTemplate.vue'
+export default {
+    components: {
+        PageTemplate
+    }
+}
+</script>
 <template>
-    Our Product
+    <PageTemplate title="Products">
+
+    </PageTemplate>
 </template>

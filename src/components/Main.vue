@@ -4,7 +4,7 @@ import { RouterView } from 'vue-router';
 
 
 <template>
-    <main class="container mx-auto">
+    <main>
         <RouterView />
     </main>
 </template>
