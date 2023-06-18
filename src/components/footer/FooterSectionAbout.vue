@@ -14,6 +14,6 @@ export default {
         <div class="w-1/2">
             <PageLogo mode="light" />
         </div>
-        <p>Vectoy empowers businesses and individuals in the digital age.</p>
+        <p>Vectory empowers businesses and individuals in the digital age.</p>
     </FooterSection>
 </template>
