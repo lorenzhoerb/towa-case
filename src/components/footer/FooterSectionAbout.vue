@@ -11,8 +11,8 @@ export default {
 
 <template>
     <FooterSection>
-        <div class="w-20">
-            <PageLogo />
+        <div class="w-1/2">
+            <PageLogo mode="light" />
         </div>
         <p>Vectoy empowers businesses and individuals in the digital age.</p>
     </FooterSection>
