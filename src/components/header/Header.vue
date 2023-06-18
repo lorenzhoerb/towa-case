@@ -27,7 +27,7 @@ export default {
 
             <div class="flex items-center">
                 <button
-                    class="bg-primary hover:bg-violet-700 h-fit cursor-pointer border-none text-on-primary py-2 px-4 rounded">Contact
+                    class="bg-primary hover:bg-violet-700 font-semibold h-fit cursor-pointer border-none text-on-primary py-2 px-4 rounded-md">Contact
                     Us</button>
             </div>
         </div>
